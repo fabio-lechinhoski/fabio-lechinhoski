@@ -1,6 +1,6 @@
 ### Olá, eu sou o Fábio Lechinhoski 👋
 
-**Desenvolvedor de Software** em fase final de **Sistemas de Informação**, unindo engenharia de software com bagagem em **Design de Interiores & UI/UX** para construir aplicações web rápidas, acessíveis e bem estruturadas.
+**Desenvolvedor de Software** e graduando em Sistemas de Informação. Construo aplicações web rápidas e acessíveis com React e TypeScript, unindo código bem estruturado, UI/UX e precisão visual.
 
 🛠️ **Tecnologias & Ferramentas**
 * **Front-end & Dados:** React, TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3 (Grid & Flexbox), SQL
